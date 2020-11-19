@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: lightgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* padding: 10px; */
+}
+
+.demo {
+    margin: 20px;
+    border: 1px solid #fafafa;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.demo1 {
+    background-color: lightyellow;
+}
+
+.demo2 {
+    background-color: wheat;
+}
+
+.demo3 {
+    background-color: yellowgreen;
+}
+
+button {
+    font-family: inherit;
+    font-weight: bold;
+    padding: 10px;
+    background-color: aliceblue;
+    outline: none;
+    border-radius: 8px;
+    border: none;
+}
